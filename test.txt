@@ -1,1 +1,5 @@
 Jestem na teście i sprawdzam jak mi idzie
+
+i coś robię
+
+to jest master i tu są zmiany
